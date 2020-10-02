@@ -2,11 +2,11 @@
 
 ### Hi there! I'm Donald:
 
-💻 FrontEnd EngIneer<br>
-🎓 Undergraduate from HEU<br>
+💻 Full Stack Developer<br>
+🎓 Graduate from Concordia University<br>
 ☕ Developing with a sense of Design<br>
-📝 Blog: [Donald's Blog](https://sirice.netlify.app/)<br>
+📝 Blog: [Donald's Blog](https://realdonald1994.github.io/)<br>
 📫 Mail: realdonald9@gmail.com<br>
 
-⭐️ From [Sirice](https://github.com/siricee)<br>
+⭐️ From [Donald](https://github.com/realdonald1994)<br>
 
