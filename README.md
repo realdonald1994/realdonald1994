@@ -5,7 +5,7 @@
 💻 Full Stack Developer<br>
 🎓 Graduate from Concordia University<br>
 ☕ Developing with a sense of Design<br>
-📝 Blog: [Donald's Blog](https://realdonald1994.github.io/)<br>
+📝 Blog: [Donald's Blog](https://www.donaldh.me/)<br>
 📫 Mail: realdonald9@gmail.com<br>
 
 ⭐️ From [Donald](https://github.com/realdonald1994)<br>
